@@ -1,1 +1,1 @@
-THIS IS SIMPLY A TEMPLATE
+This repository stores folders and files which I acquired from the conference ThaiPASS 2024 at Chiang Mai, Thailand. However, I did not include the details about GALAXY session because then I would need to upload almost 100k of images. The files contained within this repository are thus focused on exoplanets and cosmology.
